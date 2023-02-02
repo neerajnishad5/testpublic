@@ -1,1 +1,1 @@
-console.log("another file one.js created!");
+console.log("test2");
